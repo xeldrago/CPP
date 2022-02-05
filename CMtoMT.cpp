@@ -3,7 +3,7 @@ using namespace std;
 
 
 
-void main()
+int main()
 {
 int cm;
 float mt;
